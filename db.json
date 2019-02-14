@@ -1,9 +1,11 @@
 {
-  "UserDetails": [
+  "posts": [
     {
-  "username": "admin",
-  "password": "admin",
-  "appVersion": "1.0.0"
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
