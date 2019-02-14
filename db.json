@@ -1,12 +1,6 @@
 {
-   "username" : "admin",
-   "password" : "admin",
-   "validation-factors" : {
-      "validationFactors" : [
-         {
-            "name" : "remote_address",
-            "value" : "127.0.0.1"
-         }
-      ]
-   }
+    "name": "morpheus",
+    "job": "leader",
+    "id": "514",
+    "createdAt": "2019-02-14T08:32:32.708Z"
 }
