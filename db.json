@@ -1,99 +1,104 @@
 {
-
-  "Details": {
-
-    "UserID": "n001",
-
-    "Username": "Hubbell",
-
-    "Brands": [
-
-      {
-
-        "Name": "Burndy",
-
-        "logoURL": "https://app.burndy.com/images/default-source/logos/burndy-2012-logo.jpg?sfvrsn=6",
-
-        "Productlist": [
-
+  "UserList": [
+    {
+      "ID": 1,
+      "User": {
+        "name": "Hubbell",
+        "ImageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hubbell.svg/2000px-Hubbell.svg.png",
+        "productsLink": "xyz.com/sadakjds",
+        "products": [
           {
-
-            "Name": "PAT750",
-
-            "ImageURL": "https://www.specialized.net/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/1/0/109x302_pli-burndy-pat750-li.jpg",
-
-            "modelURL": "https://www.specialized.net/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/1/0/109x302_pli-burndy-pat750-li.jpg"
-
+            "name": "Hubbell Product 1",
+            "ImagebuttonLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hubbell.svg/2000px-Hubbell.svg.png",
+            "AssetLink": "https://drive.google.com/uc?export=download&id=11tH_mdL9Bl_qYaxEWxoFQch3ZF0_CAZH"
           },
-
           {
-
-            "Name": "PAT750",
-
-            "ImageURL": "https://www.specialized.net/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/1/0/109x302_pli-burndy-pat750-li.jpg",
-
-            "modelURL": "https://www.specialized.net/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/1/0/109x302_pli-burndy-pat750-li.jpg"
-
+            "name": "Hubbell Product 2",
+            "ImagebuttonLink": "xyz.com/askdla",
+            "AssetLink": "xyz.com/sadjklsdaasnak"
           },
-
           {
-
-            "Name": "PAT750",
-
-            "ImageURL": "https://www.specialized.net/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/1/0/109x302_pli-burndy-pat750-li.jpg",
-
-            "modelURL": "https://www.specialized.net/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/1/0/109x302_pli-burndy-pat750-li.jpg"
-
+            "name": "Hubbell Product 3",
+            "ImagebuttonLink": "xyzcomaskdla",
+            "AssetLink": "xyz.com/vsdfvvdfsvs"
           }
-
         ]
-
-      },
-
-      {
-
-        "Name": "HPS",
-
-        "logoURL": "https://mms.businesswire.com/media/20141016006031/en/436833/4/Hubbell_PSI.jpg",
-
-        "Productlist": [
-
-          {
-
-            "Name": "PAT750",
-
-            "ImageURL": "https://www.specialized.net/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/1/0/109x302_pli-burndy-pat750-li.jpg",
-
-            "modelURL": "https://www.specialized.net/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/1/0/109x302_pli-burndy-pat750-li.jpg"
-
-          },
-
-          {
-
-            "Name": "PAT750",
-
-            "ImageURL": "https://www.specialized.net/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/1/0/109x302_pli-burndy-pat750-li.jpg",
-
-            "modelURL": "https://www.specialized.net/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/1/0/109x302_pli-burndy-pat750-li.jpg"
-
-          },
-
-          {
-
-            "Name": "PAT750",
-
-            "ImageURL": "https://www.specialized.net/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/1/0/109x302_pli-burndy-pat750-li.jpg",
-
-            "modelURL": "https://www.specialized.net/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/1/0/109x302_pli-burndy-pat750-li.jpg"
-
-          }
-
-        ]
-
       }
-
-    ]
-
-  }
-
+    },
+    {
+      "ID": 2,
+      "User": {
+        "name": "Burndy",
+        "ImageLink": "xyzsadakjds",
+        "productsLink": "xyz.com/sadakjds",
+        "products": [
+          {
+            "name": "Burndy Product 1",
+            "ImagebuttonLink": "xyz.com/askdla",
+            "AssetLink": "xyz.com/svsjkfrvslnak"
+          },
+          {
+            "name": "Burndy Product 2",
+            "ImagebuttonLink": "xyz.com/askdla",
+            "AssetLink": "xyz.com/sadjklsdaasnak"
+          },
+          {
+            "name": "Burndy Product 3",
+            "ImagebuttonLink": "https://hubbellcdn.com/prodimage1200/HIL_HBLHO_PRODIMAGE_1200.jpg",
+            "AssetLink": "xyz.com/vsdfvvdfsvs"
+          }
+        ]
+      }
+    },
+    {
+      "ID": 3,
+      "User": {
+        "name": "Killark",
+        "ImageLink": "xyz.com/sadakjds",
+        "productsLink": "xyz.com/sadakjds",
+        "products": [
+          {
+            "name": "Killark Product 1",
+            "ImagebuttonLink": "https://hubbellcdn.com/prodimage1200/KIL_F_GRR-2_Isometric_1200.jpg",
+            "AssetLink": "xyz.com/svsjkfrvslnak"
+          },
+          {
+            "name": "Killark Product 2",
+            "ImagebuttonLink": "xyz.com/askdla",
+            "AssetLink": "xyz.com/sadjklsdaasnak"
+          },
+          {
+            "name": "Killark Product 3",
+            "ImagebuttonLink": "xyz.com/askdla",
+            "AssetLink": "xyz.com/vsdfvvdfsvs"
+          }
+        ]
+      }
+    },
+    {
+      "ID": 4,
+      "User": {
+        "name": "HaefleyHipotronics",
+        "ImageLink": "xyzsadakjds",
+        "productsLink": "xyz.com/akjds",
+        "products": [
+          {
+            "name": "HaefelyHipotronics Product 1",
+            "ImagebuttonLink": "xyz.com/askdla",
+            "AssetLink": "xyz.com/svsjkfrvslnak"
+          },
+          {
+            "name": "HaefelyHipotronics Product 2",
+            "ImagebuttonLink": "xyz.com/askdla",
+            "AssetLink": "xyz.com/sadjklsdaasnak"
+          },
+          {
+            "name": "HaefelyHipotronics Product 3",
+            "ImagebuttonLink": "xyz.com/askdla",
+            "AssetLink": "xyz.com/vsdfvvdfsvs"
+          }
+        ]
+      }
+    }
+  ]
 }
